@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:http/http.dart' as http;
 
-const GOOGLE_API_KEY = 'AIzaSyDAHlvzPJ65a5xfAxw7c2NiAzSw2GeccIE';
+const GOOGLE_API_KEY = 'chave API';
 
 // link google maps static API
 class LocationUtil {
